@@ -1,3 +1,4 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/KennyChenFight/golib.svg)](https://pkg.go.dev/github.com/KennyChenFight/randstr)
 # randstr
 generate random string very faster.
 
