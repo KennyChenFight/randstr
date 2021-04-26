@@ -40,3 +40,6 @@ BenchmarkFastGenerator_GenerateRandomStr_EnglishAlphabetBase62-8        41708664
 BenchmarkFastGenerator_GenerateRandomStr_EnglishAlphabetBase64
 BenchmarkFastGenerator_GenerateRandomStr_EnglishAlphabetBase64-8        14275873                86.11 ns/op            1 allocs/op
 ```
+
+## Original generate random string benchmark
+You can reference original folder.
